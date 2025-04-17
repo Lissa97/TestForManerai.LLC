@@ -2,7 +2,6 @@
 using System.Runtime.InteropServices.ComTypes;
 using UnityEngine;
 using UnityEngine.UIElements;
-using static UnityEditor.Progress;
 internal class Bag : MonoBehaviour, IPointerDownHolder
 {
     /// <summary>
